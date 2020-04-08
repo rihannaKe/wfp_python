@@ -19,7 +19,7 @@ Contains the following assets:
     contacts.json - a json file that contains the contacts per each country saved using the country_id as key 
 
 ### Want to do  
- - Better customized notification message with details of country and decrease values
+ - Better customized notification message with details of the country and the decreased values
  - Save fetched contact list to avoid calling multiple time
  - Add descriptive logs 
  - Add unit testing to the code
