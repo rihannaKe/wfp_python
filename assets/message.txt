@@ -1,0 +1,7 @@
+Dear ${PERSON_NAME}
+
+You are recieving this massege because as per data anyalzed today, the country you are representing has registered a food security decrease 
+(of atleast >= of 5%) compared to data of 30 days ago.
+
+Your Truly
+Food Security Monitoring Systems
